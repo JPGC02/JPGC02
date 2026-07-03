@@ -111,8 +111,8 @@ const joaoPaulo = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPGC02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=00ffd1&icon_color=8A2BE2&text_color=ffffff" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPGC02&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00ffd1&text_color=ffffff&langs_count=8" alt="top langs" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JPGC02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=00ffd1&icon_color=8A2BE2&text_color=ffffff" alt="stats" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JPGC02&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00ffd1&text_color=ffffff&langs_count=8" alt="top langs" />
 
 </div>
 
@@ -132,7 +132,7 @@ const joaoPaulo = {
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=JPGC02&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4)
+![trophy](https://github-profile-trophy-omega.vercel.app/?username=JPGC02&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4)
 
 </div>
 
